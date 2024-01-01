@@ -1,0 +1,19 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://www.ehcache.org/ehcache.xsd"
+         updateCheck="false">
+
+    <!-- ... Other configurations ... -->
+
+    <cache name="rating-history"
+           maxEntriesLocalHeap="10000"
+           eternal="false"
+           timeToIdleSeconds="300"
+           timeToLiveSeconds="600"
+           overflowToDisk="false"
+           diskPersistent="true"
+           diskExpiryThreadIntervalSeconds="120"
+           memoryStoreEvictionPolicy="LRU"/>
+
+    <!-- ... Other caches ... -->
+
+</ehcache>
