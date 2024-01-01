@@ -1,0 +1,3471 @@
+[
+    {
+        "contestId": "569",
+        "id": 12446335,
+        "creationTimeSeconds": 1439226817,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "569",
+            "index": "A",
+            "name": "Music",
+            "points": 500.0,
+            "rating": 1500,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 569,
+            "members": [
+                {
+                    "handle": "Benq"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 120,
+            "startTimeSeconds": 1439224200
+        }
+    },
+    {
+        "contestId": "570",
+        "id": 12498496,
+        "creationTimeSeconds": 1439484425,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "570",
+            "index": "B",
+            "name": "Simple Game",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "constructive algorithms",
+                "games",
+                "greedy",
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 570,
+            "members": [
+                {
+                    "handle": "Benq"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 68,
+            "startTimeSeconds": 1439483400
+        }
+    },
+    {
+        "contestId": "570",
+        "id": 12504149,
+        "creationTimeSeconds": 1439485792,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "570",
+            "index": "C",
+            "name": "Replacement",
+            "points": 1500.0,
+            "rating": 1600,
+            "tags": [
+                "constructive algorithms",
+                "data structures",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 570,
+            "members": [
+                {
+                    "handle": "Benq"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 68,
+            "startTimeSeconds": 1439483400
+        }
+    },
+    {
+        "contestId": "203",
+        "id": 1948441,
+        "creationTimeSeconds": 1343525076,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "203",
+            "index": "A",
+            "name": "Two Problems",
+            "points": 500.0,
+            "rating": 1200,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 203,
+            "members": [
+                {
+                    "handle": "ecnerwala"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1341329400
+        }
+    },
+    {
+        "contestId": "214",
+        "id": 1953710,
+        "creationTimeSeconds": 1343662513,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "214",
+            "index": "A",
+            "name": "System of Equations",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 214,
+            "members": [
+                {
+                    "handle": "ecnerwala"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 23,
+            "startTimeSeconds": 1343662200
+        }
+    },
+    {
+        "contestId": "214",
+        "id": 1956721,
+        "creationTimeSeconds": 1343665165,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "214",
+            "index": "C",
+            "name": "Game",
+            "points": 2000.0,
+            "rating": 1700,
+            "tags": [
+                "brute force",
+                "greedy"
+            ]
+        },
+        "author": {
+            "contestId": 214,
+            "members": [
+                {
+                    "handle": "ecnerwala"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 23,
+            "startTimeSeconds": 1343662200
+        }
+    },
+    {
+        "contestId": "214",
+        "id": 1959390,
+        "creationTimeSeconds": 1343668316,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "214",
+            "index": "E",
+            "name": "Relay Race",
+            "points": 2500.0,
+            "rating": 2000,
+            "tags": [
+                "dp"
+            ]
+        },
+        "author": {
+            "contestId": 214,
+            "members": [
+                {
+                    "handle": "ecnerwala"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 23,
+            "startTimeSeconds": 1343662200
+        }
+    },
+    {
+        "contestId": "114",
+        "id": 24517184,
+        "creationTimeSeconds": 1486525320,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "114",
+            "index": "B",
+            "name": "PFAST Inc.",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "bitmasks",
+                "brute force",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 114,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1315494000
+        }
+    },
+    {
+        "contestId": "114",
+        "id": 24517201,
+        "creationTimeSeconds": 1486525401,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "114",
+            "index": "B",
+            "name": "PFAST Inc.",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "bitmasks",
+                "brute force",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 114,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1315494000
+        }
+    },
+    {
+        "contestId": "766",
+        "id": 24520502,
+        "creationTimeSeconds": 1486539084,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "766",
+            "index": "D",
+            "name": "Mahmoud and a Dictionary",
+            "points": 2000.0,
+            "rating": 2000,
+            "tags": [
+                "data structures",
+                "dfs and similar",
+                "dp",
+                "dsu",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 766,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1486487100
+        }
+    },
+    {
+        "contestId": "114",
+        "id": 24522918,
+        "creationTimeSeconds": 1486546775,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "114",
+            "index": "B",
+            "name": "PFAST Inc.",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "bitmasks",
+                "brute force",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 114,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1315494000
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24543658,
+        "creationTimeSeconds": 1486626054,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24543662,
+        "creationTimeSeconds": 1486626085,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24544171,
+        "creationTimeSeconds": 1486627973,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24545033,
+        "creationTimeSeconds": 1486631158,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24561552,
+        "creationTimeSeconds": 1486697325,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24565680,
+        "creationTimeSeconds": 1486715744,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24567382,
+        "creationTimeSeconds": 1486721967,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "96",
+        "id": 24567759,
+        "creationTimeSeconds": 1486723376,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "96",
+            "index": "B",
+            "name": "Lucky Numbers (easy)",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "bitmasks",
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 96,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1310137200
+        }
+    },
+    {
+        "contestId": "100827",
+        "id": 24569196,
+        "creationTimeSeconds": 1486729193,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100827",
+            "index": "A",
+            "name": "Runes",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100827,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "760",
+        "id": 24570077,
+        "creationTimeSeconds": 1486732305,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "760",
+            "index": "B",
+            "name": "Frodo and pillows",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "binary search",
+                "greedy"
+            ]
+        },
+        "author": {
+            "contestId": 760,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1485108900
+        }
+    },
+    {
+        "contestId": "766",
+        "id": 24570255,
+        "creationTimeSeconds": 1486732855,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "766",
+            "index": "C",
+            "name": "Mahmoud and a Message",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "brute force",
+                "dp",
+                "greedy",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 766,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1486487100
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 24963671,
+        "creationTimeSeconds": 1487931780,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "A",
+            "name": "Shell Game",
+            "points": 500.0,
+            "rating": 1000,
+            "tags": [
+                "constructive algorithms",
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 123,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 24970006,
+        "creationTimeSeconds": 1487934084,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "B",
+            "name": "Game of Credit Cards",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "data structures",
+                "dp",
+                "greedy",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 123,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 24999233,
+        "creationTimeSeconds": 1487987492,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "D",
+            "name": "Cloud of Hashtags",
+            "points": 2000.0,
+            "rating": 1800,
+            "tags": [
+                "binary search",
+                "greedy",
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 25011094,
+        "creationTimeSeconds": 1488022849,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "C",
+            "name": "Alyona and Spreadsheet",
+            "points": 1500.0,
+            "rating": 1600,
+            "tags": [
+                "binary search",
+                "data structures",
+                "dp",
+                "greedy",
+                "implementation",
+                "two pointers"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 25027468,
+        "creationTimeSeconds": 1488080502,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "B",
+            "name": "Game of Credit Cards",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "data structures",
+                "dp",
+                "greedy",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "779",
+        "id": 25031474,
+        "creationTimeSeconds": 1488096631,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "779",
+            "index": "A",
+            "name": "Pupils Redistribution",
+            "points": 500.0,
+            "rating": 1000,
+            "tags": [
+                "constructive algorithms",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 779,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 14,
+            "startTimeSeconds": 1488096300
+        }
+    },
+    {
+        "contestId": "779",
+        "id": 25036727,
+        "creationTimeSeconds": 1488097963,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "779",
+            "index": "B",
+            "name": "Weird Rounding",
+            "points": 1000.0,
+            "rating": 1100,
+            "tags": [
+                "brute force",
+                "greedy"
+            ]
+        },
+        "author": {
+            "contestId": 779,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 14,
+            "startTimeSeconds": 1488096300
+        }
+    },
+    {
+        "contestId": "779",
+        "id": 25038291,
+        "creationTimeSeconds": 1488098418,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "779",
+            "index": "C",
+            "name": "Dishonest Sellers",
+            "points": 1000.0,
+            "rating": 1200,
+            "tags": [
+                "constructive algorithms",
+                "greedy",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 779,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 14,
+            "startTimeSeconds": 1488096300
+        }
+    },
+    {
+        "contestId": "779",
+        "id": 25076965,
+        "creationTimeSeconds": 1488198650,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "779",
+            "index": "D",
+            "name": "String Game",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "binary search",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 779,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1488096300
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 25100501,
+        "creationTimeSeconds": 1488285183,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "C",
+            "name": "Alyona and Spreadsheet",
+            "points": 1500.0,
+            "rating": 1600,
+            "tags": [
+                "binary search",
+                "data structures",
+                "dp",
+                "greedy",
+                "implementation",
+                "two pointers"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "777",
+        "id": 25100749,
+        "creationTimeSeconds": 1488285880,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "777",
+            "index": "C",
+            "name": "Alyona and Spreadsheet",
+            "points": 1500.0,
+            "rating": 1600,
+            "tags": [
+                "binary search",
+                "data structures",
+                "dp",
+                "greedy",
+                "implementation",
+                "two pointers"
+            ]
+        },
+        "author": {
+            "contestId": 777,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1487930700
+        }
+    },
+    {
+        "contestId": "389",
+        "id": 25230248,
+        "creationTimeSeconds": 1488677043,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "389",
+            "index": "B",
+            "name": "Fox and Cross",
+            "points": 1000.0,
+            "rating": 1100,
+            "tags": [
+                "greedy",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 389,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1391442000
+        }
+    },
+    {
+        "contestId": "510",
+        "id": 25230522,
+        "creationTimeSeconds": 1488678501,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "510",
+            "index": "A",
+            "name": "Fox And Snake",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 510,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1422894600
+        }
+    },
+    {
+        "contestId": "389",
+        "id": 25231383,
+        "creationTimeSeconds": 1488682688,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "389",
+            "index": "B",
+            "name": "Fox and Cross",
+            "points": 1000.0,
+            "rating": 1100,
+            "tags": [
+                "greedy",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 389,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1391442000
+        }
+    },
+    {
+        "contestId": "389",
+        "id": 25236069,
+        "creationTimeSeconds": 1488700544,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "389",
+            "index": "B",
+            "name": "Fox and Cross",
+            "points": 1000.0,
+            "rating": 1100,
+            "tags": [
+                "greedy",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 389,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1391442000
+        }
+    },
+    {
+        "contestId": "782",
+        "id": 25291699,
+        "creationTimeSeconds": 1488802429,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "782",
+            "index": "A",
+            "name": "Andryusha and Socks",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 782,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1488719100
+        }
+    },
+    {
+        "contestId": "782",
+        "id": 25292111,
+        "creationTimeSeconds": 1488803468,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "782",
+            "index": "B",
+            "name": "The Meeting Place Cannot Be Changed",
+            "points": 1000.0,
+            "rating": 1600,
+            "tags": [
+                "binary search",
+                "ternary search"
+            ]
+        },
+        "author": {
+            "contestId": 782,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1488719100
+        }
+    },
+    {
+        "contestId": "14",
+        "id": 25421917,
+        "creationTimeSeconds": 1489283392,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "14",
+            "index": "B",
+            "name": "Young Photographer",
+            "points": null,
+            "rating": 1000,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 14,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1274283000
+        }
+    },
+    {
+        "contestId": "88",
+        "id": 25423019,
+        "creationTimeSeconds": 1489289874,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "88",
+            "index": "D",
+            "name": "Vasya and Types",
+            "points": 2000.0,
+            "rating": 1800,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 88,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1307458800
+        }
+    },
+    {
+        "contestId": "88",
+        "id": 25423113,
+        "creationTimeSeconds": 1489290485,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "88",
+            "index": "D",
+            "name": "Vasya and Types",
+            "points": 2000.0,
+            "rating": 1800,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 88,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1307458800
+        }
+    },
+    {
+        "contestId": "190",
+        "id": 25429143,
+        "creationTimeSeconds": 1489310169,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "190",
+            "index": "C",
+            "name": "STL",
+            "points": 1500.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar"
+            ]
+        },
+        "author": {
+            "contestId": 190,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1337182200
+        }
+    },
+    {
+        "contestId": "1",
+        "id": 25586858,
+        "creationTimeSeconds": 1489800254,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "1",
+            "index": "B",
+            "name": "Spreadsheet",
+            "points": null,
+            "rating": 1600,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 1,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1266580800
+        }
+    },
+    {
+        "contestId": "1",
+        "id": 25586887,
+        "creationTimeSeconds": 1489800425,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "1",
+            "index": "B",
+            "name": "Spreadsheet",
+            "points": null,
+            "rating": 1600,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 1,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1266580800
+        }
+    },
+    {
+        "contestId": "1",
+        "id": 25586895,
+        "creationTimeSeconds": 1489800458,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "1",
+            "index": "B",
+            "name": "Spreadsheet",
+            "points": null,
+            "rating": 1600,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 1,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1266580800
+        }
+    },
+    {
+        "contestId": "1",
+        "id": 25586897,
+        "creationTimeSeconds": 1489800474,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "1",
+            "index": "B",
+            "name": "Spreadsheet",
+            "points": null,
+            "rating": 1600,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 1,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1266580800
+        }
+    },
+    {
+        "contestId": "185",
+        "id": 25647137,
+        "creationTimeSeconds": 1489929908,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "185",
+            "index": "A",
+            "name": "Plant",
+            "points": 500.0,
+            "rating": 1300,
+            "tags": [
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 185,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1336145400
+        }
+    },
+    {
+        "contestId": "103",
+        "id": 25730158,
+        "creationTimeSeconds": 1490263680,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "103",
+            "index": "B",
+            "name": "Cthulhu",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar",
+                "dsu",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 103,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1312714800
+        }
+    },
+    {
+        "contestId": "103",
+        "id": 25730430,
+        "creationTimeSeconds": 1490264753,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "103",
+            "index": "B",
+            "name": "Cthulhu",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar",
+                "dsu",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 103,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1312714800
+        }
+    },
+    {
+        "contestId": "320",
+        "id": 25731028,
+        "creationTimeSeconds": 1490267013,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "320",
+            "index": "B",
+            "name": "Ping-Pong (Easy Version)",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 320,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1371992400
+        }
+    },
+    {
+        "contestId": "320",
+        "id": 25774796,
+        "creationTimeSeconds": 1490363500,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "320",
+            "index": "B",
+            "name": "Ping-Pong (Easy Version)",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 320,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1371992400
+        }
+    },
+    {
+        "contestId": "56",
+        "id": 25809348,
+        "creationTimeSeconds": 1490495443,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "56",
+            "index": "C",
+            "name": "Corporation Mail",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "data structures",
+                "expression parsing",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 56,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1295626200
+        }
+    },
+    {
+        "contestId": "598",
+        "id": 25972450,
+        "creationTimeSeconds": 1490952123,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "598",
+            "index": "D",
+            "name": "Igor In the Museum",
+            "points": null,
+            "rating": 1700,
+            "tags": [
+                "dfs and similar",
+                "graphs",
+                "shortest paths"
+            ]
+        },
+        "author": {
+            "contestId": 598,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1447426800
+        }
+    },
+    {
+        "contestId": "688",
+        "id": 25978750,
+        "creationTimeSeconds": 1490964119,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "688",
+            "index": "C",
+            "name": "NP-Hard Problem",
+            "points": 1500.0,
+            "rating": 1500,
+            "tags": [
+                "dfs and similar",
+                "graphs"
+            ]
+        },
+        "author": {
+            "contestId": 688,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1467219900
+        }
+    },
+    {
+        "contestId": "500",
+        "id": 26089861,
+        "creationTimeSeconds": 1491190435,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "500",
+            "index": "B",
+            "name": "New Year Permutation",
+            "points": 1000.0,
+            "rating": 1600,
+            "tags": [
+                "dfs and similar",
+                "dsu",
+                "graphs",
+                "greedy",
+                "math",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 500,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1419951600
+        }
+    },
+    {
+        "contestId": "500",
+        "id": 26167399,
+        "creationTimeSeconds": 1491476355,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "500",
+            "index": "B",
+            "name": "New Year Permutation",
+            "points": 1000.0,
+            "rating": 1600,
+            "tags": [
+                "dfs and similar",
+                "dsu",
+                "graphs",
+                "greedy",
+                "math",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 500,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1419951600
+        }
+    },
+    {
+        "contestId": "500",
+        "id": 26168712,
+        "creationTimeSeconds": 1491479650,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "500",
+            "index": "B",
+            "name": "New Year Permutation",
+            "points": 1000.0,
+            "rating": 1600,
+            "tags": [
+                "dfs and similar",
+                "dsu",
+                "graphs",
+                "greedy",
+                "math",
+                "sortings"
+            ]
+        },
+        "author": {
+            "contestId": 500,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1419951600
+        }
+    },
+    {
+        "contestId": "377",
+        "id": 26168742,
+        "creationTimeSeconds": 1491479728,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "377",
+            "index": "A",
+            "name": "Maze",
+            "points": 500.0,
+            "rating": 1600,
+            "tags": [
+                "dfs and similar"
+            ]
+        },
+        "author": {
+            "contestId": 377,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1388331000
+        }
+    },
+    {
+        "contestId": "377",
+        "id": 26169114,
+        "creationTimeSeconds": 1491480489,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "377",
+            "index": "A",
+            "name": "Maze",
+            "points": 500.0,
+            "rating": 1600,
+            "tags": [
+                "dfs and similar"
+            ]
+        },
+        "author": {
+            "contestId": 377,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1388331000
+        }
+    },
+    {
+        "contestId": "100646",
+        "id": 26299345,
+        "creationTimeSeconds": 1491916182,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100646",
+            "index": "E",
+            "name": "Su-Su-Sudoku",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100646,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "292",
+        "id": 26318734,
+        "creationTimeSeconds": 1492004384,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "292",
+            "index": "C",
+            "name": "Beautiful IP Addresses",
+            "points": 1500.0,
+            "rating": 2000,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 292,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1366040100
+        }
+    },
+    {
+        "contestId": "292",
+        "id": 26357964,
+        "creationTimeSeconds": 1492177253,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "292",
+            "index": "C",
+            "name": "Beautiful IP Addresses",
+            "points": 1500.0,
+            "rating": 2000,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 292,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1366040100
+        }
+    },
+    {
+        "contestId": "100274",
+        "id": 26370741,
+        "creationTimeSeconds": 1492233187,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100274",
+            "index": "D",
+            "name": "Magic Star",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100274,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1383739800
+        }
+    },
+    {
+        "contestId": "100274",
+        "id": 26372857,
+        "creationTimeSeconds": 1492239617,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100274",
+            "index": "D",
+            "name": "Magic Star",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100274,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1383739800
+        }
+    },
+    {
+        "contestId": "100553",
+        "id": 26402137,
+        "creationTimeSeconds": 1492311754,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100553",
+            "index": "J",
+            "name": "Jokewithpermutation",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100553,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "797",
+        "id": 26402445,
+        "creationTimeSeconds": 1492312919,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "797",
+            "index": "B",
+            "name": "Odd sum",
+            "points": null,
+            "rating": 1400,
+            "tags": [
+                "dp",
+                "greedy",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 797,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492266900
+        }
+    },
+    {
+        "contestId": "100553",
+        "id": 26402935,
+        "creationTimeSeconds": 1492314971,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100553",
+            "index": "J",
+            "name": "Jokewithpermutation",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100553,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "100553",
+        "id": 26403007,
+        "creationTimeSeconds": 1492315344,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100553",
+            "index": "J",
+            "name": "Jokewithpermutation",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100553,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "47",
+        "id": 26410488,
+        "creationTimeSeconds": 1492338727,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "47",
+            "index": "A",
+            "name": "Triangular numbers",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "brute force",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 47,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1291737600
+        }
+    },
+    {
+        "contestId": "47",
+        "id": 26410498,
+        "creationTimeSeconds": 1492338768,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "47",
+            "index": "A",
+            "name": "Triangular numbers",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "brute force",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 47,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1291737600
+        }
+    },
+    {
+        "contestId": "100783",
+        "id": 26413447,
+        "creationTimeSeconds": 1492348039,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100783",
+            "index": "A",
+            "name": "GREAT+SWERC=PORTO",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100783,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "100273",
+        "id": 26476437,
+        "creationTimeSeconds": 1492520934,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100273",
+            "index": "I",
+            "name": "I18n",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100273,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "2",
+        "id": 26476591,
+        "creationTimeSeconds": 1492521338,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "2",
+            "index": "B",
+            "name": "The least round way",
+            "points": null,
+            "rating": 2000,
+            "tags": [
+                "dp",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 2,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1267117200
+        }
+    },
+    {
+        "contestId": "801",
+        "id": 26496947,
+        "creationTimeSeconds": 1492609087,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "801",
+            "index": "B",
+            "name": "Valued Keys",
+            "points": 1000.0,
+            "rating": 900,
+            "tags": [
+                "constructive algorithms",
+                "greedy",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 801,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492356900
+        }
+    },
+    {
+        "contestId": "801",
+        "id": 26512271,
+        "creationTimeSeconds": 1492681525,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "801",
+            "index": "A",
+            "name": "Vicious Keyboard",
+            "points": 500.0,
+            "rating": 1100,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 801,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492356900
+        }
+    },
+    {
+        "contestId": "801",
+        "id": 26512532,
+        "creationTimeSeconds": 1492682461,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "801",
+            "index": "A",
+            "name": "Vicious Keyboard",
+            "points": 500.0,
+            "rating": 1100,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 801,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492356900
+        }
+    },
+    {
+        "contestId": "801",
+        "id": 26534993,
+        "creationTimeSeconds": 1492769330,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "801",
+            "index": "C",
+            "name": "Voltage Keepsake",
+            "points": 1500.0,
+            "rating": 1800,
+            "tags": [
+                "binary search",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 801,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492356900
+        }
+    },
+    {
+        "contestId": "796",
+        "id": 26539156,
+        "creationTimeSeconds": 1492783223,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "796",
+            "index": "B",
+            "name": "Find The Bone",
+            "points": 750.0,
+            "rating": 1300,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 796,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1491842100
+        }
+    },
+    {
+        "contestId": "798",
+        "id": 26576249,
+        "creationTimeSeconds": 1492842376,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "798",
+            "index": "A",
+            "name": "Mike and palindrome",
+            "points": 500.0,
+            "rating": 1000,
+            "tags": [
+                "brute force",
+                "constructive algorithms",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 798,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1492785300
+        }
+    },
+    {
+        "contestId": "2",
+        "id": 26576980,
+        "creationTimeSeconds": 1492844769,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "2",
+            "index": "B",
+            "name": "The least round way",
+            "points": null,
+            "rating": 2000,
+            "tags": [
+                "dp",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 2,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1267117200
+        }
+    },
+    {
+        "contestId": "2",
+        "id": 26577351,
+        "creationTimeSeconds": 1492846004,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "2",
+            "index": "B",
+            "name": "The least round way",
+            "points": null,
+            "rating": 2000,
+            "tags": [
+                "dp",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 2,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1267117200
+        }
+    },
+    {
+        "contestId": "158",
+        "id": 26593474,
+        "creationTimeSeconds": 1492911632,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "158",
+            "index": "D",
+            "name": "Ice Sculptures",
+            "points": 1500.0,
+            "rating": 1300,
+            "tags": [
+                "*special",
+                "brute force",
+                "number theory"
+            ]
+        },
+        "author": {
+            "contestId": 158,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1330804800
+        }
+    },
+    {
+        "contestId": "158",
+        "id": 26593563,
+        "creationTimeSeconds": 1492912164,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "158",
+            "index": "A",
+            "name": "Next Round",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "*special",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 158,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1330804800
+        }
+    },
+    {
+        "contestId": "100783",
+        "id": 26594124,
+        "creationTimeSeconds": 1492915932,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100783",
+            "index": "A",
+            "name": "GREAT+SWERC=PORTO",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100783,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "91",
+        "id": 26601403,
+        "creationTimeSeconds": 1492943648,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "91",
+            "index": "A",
+            "name": "Newspaper Headline",
+            "points": 500.0,
+            "rating": 1500,
+            "tags": [
+                "greedy",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 91,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1308582000
+        }
+    },
+    {
+        "contestId": "55",
+        "id": 26601806,
+        "creationTimeSeconds": 1492945007,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "55",
+            "index": "B",
+            "name": "Smallest number",
+            "points": 1000.0,
+            "rating": 1600,
+            "tags": [
+                "brute force"
+            ]
+        },
+        "author": {
+            "contestId": 55,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1294992000
+        }
+    },
+    {
+        "contestId": "416",
+        "id": 26641180,
+        "creationTimeSeconds": 1493039353,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "416",
+            "index": "D",
+            "name": "Population Size",
+            "points": 2000.0,
+            "rating": 2400,
+            "tags": [
+                "greedy",
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 416,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1397376000
+        }
+    },
+    {
+        "contestId": "416",
+        "id": 26641296,
+        "creationTimeSeconds": 1493039661,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "416",
+            "index": "D",
+            "name": "Population Size",
+            "points": 2000.0,
+            "rating": 2400,
+            "tags": [
+                "greedy",
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 416,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1397376000
+        }
+    },
+    {
+        "contestId": "416",
+        "id": 26641401,
+        "creationTimeSeconds": 1493039836,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "416",
+            "index": "D",
+            "name": "Population Size",
+            "points": 2000.0,
+            "rating": 2400,
+            "tags": [
+                "greedy",
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 416,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1397376000
+        }
+    },
+    {
+        "contestId": "230",
+        "id": 26700364,
+        "creationTimeSeconds": 1493290910,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "230",
+            "index": "B",
+            "name": "T-primes",
+            "points": 500.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "implementation",
+                "math",
+                "number theory"
+            ]
+        },
+        "author": {
+            "contestId": 230,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1349105400
+        }
+    },
+    {
+        "contestId": "230",
+        "id": 26700391,
+        "creationTimeSeconds": 1493291000,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "230",
+            "index": "B",
+            "name": "T-primes",
+            "points": 500.0,
+            "rating": 1300,
+            "tags": [
+                "binary search",
+                "implementation",
+                "math",
+                "number theory"
+            ]
+        },
+        "author": {
+            "contestId": 230,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1349105400
+        }
+    },
+    {
+        "contestId": "691",
+        "id": 26717972,
+        "creationTimeSeconds": 1493379241,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "691",
+            "index": "C",
+            "name": "Exponential notation",
+            "points": null,
+            "rating": 1800,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 691,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1468425600
+        }
+    },
+    {
+        "contestId": "691",
+        "id": 26718283,
+        "creationTimeSeconds": 1493380213,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "691",
+            "index": "C",
+            "name": "Exponential notation",
+            "points": null,
+            "rating": 1800,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 691,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1468425600
+        }
+    },
+    {
+        "contestId": "691",
+        "id": 26718680,
+        "creationTimeSeconds": 1493381562,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "691",
+            "index": "C",
+            "name": "Exponential notation",
+            "points": null,
+            "rating": 1800,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 691,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1468425600
+        }
+    },
+    {
+        "contestId": "176",
+        "id": 26741273,
+        "creationTimeSeconds": 1493446272,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "176",
+            "index": "B",
+            "name": "Word Cut",
+            "points": 1000.0,
+            "rating": 1700,
+            "tags": [
+                "dp"
+            ]
+        },
+        "author": {
+            "contestId": 176,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1334934300
+        }
+    },
+    {
+        "contestId": "100646",
+        "id": 26759227,
+        "creationTimeSeconds": 1493521061,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100646",
+            "index": "C",
+            "name": "LCR",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100646,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false
+        }
+    },
+    {
+        "contestId": "745",
+        "id": 26760516,
+        "creationTimeSeconds": 1493528348,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "745",
+            "index": "A",
+            "name": "Hongcow Learns the Cyclic Shift",
+            "points": 500.0,
+            "rating": 900,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 745,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1481992500
+        }
+    },
+    {
+        "contestId": "250",
+        "id": 26760985,
+        "creationTimeSeconds": 1493530887,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "250",
+            "index": "B",
+            "name": "Restoring IPv6",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 250,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1353938400
+        }
+    },
+    {
+        "contestId": "250",
+        "id": 26761935,
+        "creationTimeSeconds": 1493533575,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "250",
+            "index": "B",
+            "name": "Restoring IPv6",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "implementation",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 250,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1353938400
+        }
+    },
+    {
+        "contestId": "745",
+        "id": 26762136,
+        "creationTimeSeconds": 1493534461,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "745",
+            "index": "B",
+            "name": "Hongcow Solves A Puzzle",
+            "points": 1000.0,
+            "rating": 1400,
+            "tags": [
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 745,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1481992500
+        }
+    },
+    {
+        "contestId": "106",
+        "id": 26765342,
+        "creationTimeSeconds": 1493548104,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "106",
+            "index": "B",
+            "name": "Choosing Laptop",
+            "points": 1000.0,
+            "rating": 1000,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 106,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1313766000
+        }
+    },
+    {
+        "contestId": "132",
+        "id": 26777167,
+        "creationTimeSeconds": 1493603648,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "132",
+            "index": "C",
+            "name": "Logo Turtle",
+            "points": 1500.0,
+            "rating": 1800,
+            "tags": [
+                "dp"
+            ]
+        },
+        "author": {
+            "contestId": 132,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1322924400
+        }
+    },
+    {
+        "contestId": "101243",
+        "id": 26782225,
+        "creationTimeSeconds": 1493629548,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "101243",
+            "index": "G",
+            "name": "Sphenic numbers",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 101243,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                },
+                {
+                    "handle": "paulzrm"
+                },
+                {
+                    "handle": "walking-seasons"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "teamId": 30653,
+            "teamName": "haoba",
+            "ghost": false,
+            "startTimeSeconds": 1496030700
+        }
+    },
+    {
+        "contestId": "101243",
+        "id": 26782287,
+        "creationTimeSeconds": 1493629785,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "101243",
+            "index": "A",
+            "name": "Fried Fish",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 101243,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                },
+                {
+                    "handle": "paulzrm"
+                },
+                {
+                    "handle": "walking-seasons"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "teamId": 30653,
+            "teamName": "haoba",
+            "ghost": false,
+            "startTimeSeconds": 1496030700
+        }
+    },
+    {
+        "contestId": "304",
+        "id": 26833248,
+        "creationTimeSeconds": 1493898133,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "304",
+            "index": "B",
+            "name": "Calendar",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 304,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1368363600
+        }
+    },
+    {
+        "contestId": "304",
+        "id": 26833508,
+        "creationTimeSeconds": 1493898897,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "304",
+            "index": "B",
+            "name": "Calendar",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 304,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1368363600
+        }
+    },
+    {
+        "contestId": "304",
+        "id": 26833781,
+        "creationTimeSeconds": 1493899680,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "304",
+            "index": "B",
+            "name": "Calendar",
+            "points": 1000.0,
+            "rating": 1300,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 304,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1368363600
+        }
+    },
+    {
+        "contestId": "754",
+        "id": 26878920,
+        "creationTimeSeconds": 1493983156,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "754",
+            "index": "B",
+            "name": "Ilya and tic-tac-toe game",
+            "points": 1000.0,
+            "rating": 1100,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 754,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1483713300
+        }
+    },
+    {
+        "contestId": "805",
+        "id": 26890517,
+        "creationTimeSeconds": 1494031550,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "805",
+            "index": "A",
+            "name": "Fake NP",
+            "points": 500.0,
+            "rating": 1000,
+            "tags": [
+                "greedy",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 805,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1493909400
+        }
+    },
+    {
+        "contestId": "805",
+        "id": 26890557,
+        "creationTimeSeconds": 1494031878,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "805",
+            "index": "B",
+            "name": "3-palindrome",
+            "points": 1000.0,
+            "rating": 1000,
+            "tags": [
+                "constructive algorithms"
+            ]
+        },
+        "author": {
+            "contestId": 805,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1493909400
+        }
+    },
+    {
+        "contestId": "173",
+        "id": 26916291,
+        "creationTimeSeconds": 1494134843,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "173",
+            "index": "A",
+            "name": "Rock-Paper-Scissors",
+            "points": 500.0,
+            "rating": 1300,
+            "tags": [
+                "implementation",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 173,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1333724400
+        }
+    },
+    {
+        "contestId": "166",
+        "id": 26916574,
+        "creationTimeSeconds": 1494135923,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "166",
+            "index": "E",
+            "name": "Tetrahedron",
+            "points": 1000.0,
+            "rating": 1500,
+            "tags": [
+                "dp",
+                "math",
+                "matrices"
+            ]
+        },
+        "author": {
+            "contestId": 166,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1332516600
+        }
+    },
+    {
+        "contestId": "34",
+        "id": 26918735,
+        "creationTimeSeconds": 1494144123,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "34",
+            "index": "C",
+            "name": "Page Numbers",
+            "points": 1500.0,
+            "rating": 1300,
+            "tags": [
+                "expression parsing",
+                "implementation",
+                "sortings",
+                "strings"
+            ]
+        },
+        "author": {
+            "contestId": 34,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1286802000
+        }
+    },
+    {
+        "contestId": "17",
+        "id": 26922002,
+        "creationTimeSeconds": 1494155914,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "17",
+            "index": "A",
+            "name": "Noldbach problem",
+            "points": null,
+            "rating": 1000,
+            "tags": [
+                "brute force",
+                "math",
+                "number theory"
+            ]
+        },
+        "author": {
+            "contestId": 17,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1276182000
+        }
+    },
+    {
+        "contestId": "100291",
+        "id": 26958171,
+        "creationTimeSeconds": 1494251891,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100291",
+            "index": "C",
+            "name": "Playing Fair with Cryptography",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100291,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1384949400
+        }
+    },
+    {
+        "contestId": "100291",
+        "id": 26975002,
+        "creationTimeSeconds": 1494337677,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "100291",
+            "index": "C",
+            "name": "Playing Fair with Cryptography",
+            "points": null,
+            "rating": null,
+            "tags": []
+        },
+        "author": {
+            "contestId": 100291,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1384949400
+        }
+    },
+    {
+        "contestId": "807",
+        "id": 26996016,
+        "creationTimeSeconds": 1494419593,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "807",
+            "index": "C",
+            "name": "Success Rate",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "binary search",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 807,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1494171900
+        }
+    },
+    {
+        "contestId": "31",
+        "id": 27054406,
+        "creationTimeSeconds": 1494593149,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "31",
+            "index": "D",
+            "name": "Chocolate",
+            "points": 2000.0,
+            "rating": 2000,
+            "tags": [
+                "dfs and similar",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 31,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1285599600
+        }
+    },
+    {
+        "contestId": "807",
+        "id": 27068505,
+        "creationTimeSeconds": 1494651703,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "807",
+            "index": "C",
+            "name": "Success Rate",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "binary search",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 807,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1494171900
+        }
+    },
+    {
+        "contestId": "807",
+        "id": 27069334,
+        "creationTimeSeconds": 1494656060,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "807",
+            "index": "C",
+            "name": "Success Rate",
+            "points": 1500.0,
+            "rating": 1700,
+            "tags": [
+                "binary search",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 807,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1494171900
+        }
+    },
+    {
+        "contestId": "794",
+        "id": 27072861,
+        "creationTimeSeconds": 1494668371,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "794",
+            "index": "A",
+            "name": "Bank Robbery",
+            "points": 500.0,
+            "rating": 800,
+            "tags": [
+                "brute force",
+                "implementation"
+            ]
+        },
+        "author": {
+            "contestId": 794,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 46,
+            "startTimeSeconds": 1494668100
+        }
+    },
+    {
+        "contestId": "794",
+        "id": 27075885,
+        "creationTimeSeconds": 1494669302,
+        "verdict": "OK",
+        "problem": {
+            "contestId": "794",
+            "index": "B",
+            "name": "Cutting Carrot",
+            "points": 1000.0,
+            "rating": 1200,
+            "tags": [
+                "geometry",
+                "math"
+            ]
+        },
+        "author": {
+            "contestId": 794,
+            "members": [
+                {
+                    "handle": "cnnfls_csy"
+                }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 46,
+            "startTimeSeconds": 1494668100
+        }
+    }
+]
